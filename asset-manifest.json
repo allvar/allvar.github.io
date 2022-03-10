@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d301c795.css",
+    "main.js": "/static/js/main.38910d7e.js",
+    "static/media/wahzaa1.png": "/static/media/wahzaa1.224d7eb8e11d3f80f92c.png",
+    "static/media/campaign.png": "/static/media/campaign.2e73da81ed248f9ced76.png",
+    "static/media/myimage.jpg": "/static/media/myimage.5221d0306bc78a039f39.jpg",
+    "static/media/bg_gradient.jpeg": "/static/media/bg_gradient.d35e7a5689ecb6209d44.jpeg",
+    "static/media/prompter.png": "/static/media/prompter.45c76e08dfad99c43270.png",
+    "static/media/icon_react.svg": "/static/media/icon_react.bdf7beb69c5ec7d0aeb73941bc8dc425.svg",
+    "static/media/icon_portfolio.svg": "/static/media/icon_portfolio.535b40554fab6ca91cb8acc38f63302f.svg",
+    "static/media/icon_behance.svg": "/static/media/icon_behance.97a0c766b634d95072bd1d135612c9b0.svg",
+    "static/media/icon_js.svg": "/static/media/icon_js.7b21833bf3efc5ed81745a5397e9d175.svg",
+    "static/media/icon_mail.svg": "/static/media/icon_mail.d2f10286d9430891b9ed868425ebc98f.svg",
+    "index.html": "/index.html",
+    "static/media/icon_home.svg": "/static/media/icon_home.38c079e00d11356af323bdf858672bb1.svg",
+    "static/media/icon_linkedin.svg": "/static/media/icon_linkedin.f63507bffa9cdf0cc15212b271e0cd7f.svg",
+    "static/media/icon_open.svg": "/static/media/icon_open.b7c54421e99c22ebf85a7ed833c8a3b1.svg",
+    "main.d301c795.css.map": "/static/css/main.d301c795.css.map",
+    "main.38910d7e.js.map": "/static/js/main.38910d7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d301c795.css",
+    "static/js/main.38910d7e.js"
+  ]
+}
