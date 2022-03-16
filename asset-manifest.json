@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.eefbb4e4.css",
-    "main.js": "/static/js/main.3536ae47.js",
+    "main.js": "/static/js/main.5681e7df.js",
     "static/media/wahzaa1.png": "/static/media/wahzaa1.224d7eb8e11d3f80f92c.png",
     "static/media/campaign.png": "/static/media/campaign.2e73da81ed248f9ced76.png",
     "static/media/myimage.jpg": "/static/media/myimage.5221d0306bc78a039f39.jpg",
@@ -17,10 +17,10 @@
     "static/media/icon_linkedin.svg": "/static/media/icon_linkedin.f63507bffa9cdf0cc15212b271e0cd7f.svg",
     "static/media/icon_open.svg": "/static/media/icon_open.b7c54421e99c22ebf85a7ed833c8a3b1.svg",
     "main.eefbb4e4.css.map": "/static/css/main.eefbb4e4.css.map",
-    "main.3536ae47.js.map": "/static/js/main.3536ae47.js.map"
+    "main.5681e7df.js.map": "/static/js/main.5681e7df.js.map"
   },
   "entrypoints": [
     "static/css/main.eefbb4e4.css",
-    "static/js/main.3536ae47.js"
+    "static/js/main.5681e7df.js"
   ]
 }
